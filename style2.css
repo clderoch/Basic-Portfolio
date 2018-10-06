@@ -51,7 +51,7 @@ img {
 
 
 #main2 {
-  margin: 20px 10px 0px 150px;
+  margin: 0px 10px 0px 150px;
   float: left;
   width: 960px;
   height: 500px;
@@ -84,3 +84,63 @@ img {
     
 }
 
+#main-right {
+  float: left;
+  width: 75%;
+  display: block;
+  margin-left: 150px;
+  margin-top: 30px;
+  background-color: white;
+}
+
+#main-right .form {
+  width: 92%;
+  margin-right: auto;
+  color: #777777;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 1em;
+}
+
+.label {
+    color: #777777;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 1em;
+}
+
+#main-right .form div {
+  margin-bottom: 10px;
+
+}
+
+#main-right .form .textfield {
+  width: 100%;
+  height: 25%;
+  text-align: left;
+  color: #777777;
+}
+
+#main-right .cta {
+  text-align: left;
+  width: 90%;
+  color: #4aaaa5;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 1.5em;
+  border-bottom: 2px solid #777777;
+}
+
+#button {
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+    color: white;
+    float:left;
+    width: 100px;
+    height: 25px;
+}
+
+textarea {
+    color: #777777;
+}
+
+input {
+    color: #777777;
+}

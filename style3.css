@@ -8,7 +8,7 @@ b {
 }
 
 .topnav{
-    position:fixed;
+    position:absolute;
     left: 900px;
     top: 75px;
 }
@@ -40,7 +40,7 @@ img {
 
 }
 #main {
-  height: 600px;
+  height: 1000px;
   border: 1px solid lightgray;
   background-color: lightgray;
   margin: 110px 10px 0px 50px;
@@ -54,19 +54,22 @@ img {
   margin: 20px 10px 0px 150px;
   float: left;
   width: 960px;
-  height: 500px;
+  height: 800px;
   border: 1px solid white;
   background-color: white;
 }
 
+
+
 #main3 {
-    position: fixed;
+    position: absolute;
     float:left;
     width: 960px;
     margin-top: 50px;
     margin-left:150px;
     border-bottom: 2px solid #777777;
 }
+
 
 
 #header1 {

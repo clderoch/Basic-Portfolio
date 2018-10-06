@@ -17,6 +17,14 @@ p {
     float:left;
     margin-top: 75px;
     color: #777777;
+    
+}
+
+
+section{
+    float:left;
+    margin-top: 75px;
+    color: #777777;
 }
 
 a{
@@ -50,6 +58,20 @@ img {
 }
 
 
+#header1 {
+  position: absolute;
+  width: 150px;
+  height: 50px;
+  top: 40px;
+  left: 150px;
+  border: 1px solid #4aaaa5;
+  background-color: #4aaaa5;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px;
+    
+}
 #main2 {
   margin: 20px 10px 0px 150px;
   float: left;
@@ -66,24 +88,71 @@ img {
     float:left;
     width: 960px;
     margin-top: 50px;
-    margin-left:150px;
+    margin-left:151px;
     border-bottom: 2px solid #777777;
 }
 
-
-
-#header1 {
-  position: absolute;
-  width: 150px;
-  height: 50px;
-  top: 40px;
-  left: 150px;
-  border: 1px solid #4aaaa5;
-  background-color: #4aaaa5;
-  color: white;
-  text-align: center;
-  vertical-align: middle;
-  line-height: 50px;
-    
+#main5 {
+    position: absolute;
+    float:left;
+    width: 960px;
+    margin-top: 8%;
+    margin-left:151px;
 }
 
+#main6 {
+    position: absolute;
+    float:left;
+    width: 960px;
+    margin-top: 27%;
+    margin-left:151px;
+}
+
+#main7 {
+    position: absolute;
+    float:left;
+    width: 960px;
+    margin-top: 46%;
+    margin-left:151px;
+}
+
+#text {
+    position: absolute;
+    float:left;
+    margin-top: 220px;
+    margin-left: 214px;
+    font-size: x-large;
+}
+
+#text1 {
+    position: absolute;
+    float:left;
+    margin-top: 220px;
+    margin-left: 441px;
+    font-size: x-large;
+}
+
+#text2{
+    position: absolute;
+    float:left;
+    width: 960px;
+    margin-top: 440px;
+    margin-left: 16px;
+    font-size: x-large;
+}
+
+#text3 {
+    position: absolute;
+    float:left;
+    margin-top: 450px;
+    margin-left: 205px;
+    font-size: x-large;
+}
+
+#text4 {
+    position: absolute;
+    float:left;
+    margin-top: 665px;
+    margin-left: 206px;
+    font-size: x-large;
+}

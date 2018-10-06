@@ -62,7 +62,7 @@ img {
 }
 
 #main3 {
-    position: fixed;
+    position: absolute;
     float:left;
     width: 960px;
     margin-top: 50px;
